@@ -1,5 +1,5 @@
 seed: 0
-use_vr: true
+use_vr: false
 data_path: data
 save_dir: /tmp
 record: true
